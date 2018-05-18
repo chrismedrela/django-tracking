@@ -23,7 +23,7 @@ setup(
     maintainer='Basil Shubin',
     maintainer_email='basil.shubin@gmail.com',
     install_requires=[
-        'django>=1.4',
+        'django>=1.4', 
     ],
     classifiers=[
         "Development Status :: 5 - Production/Stable",
